@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-21T18:17:14 MST" name="Default suite" finished-at="2020-04-21T18:18:00 MST" duration-ms="46088">
+    <groups>
+    </groups>
+    <test started-at="2020-04-21T18:17:14 MST" name="Default test" finished-at="2020-04-21T18:18:00 MST" duration-ms="46088">
+      <class name="com.testcases.OrangeHrmCallWrapper">
+        <test-method is-config="true" signature="Orangelogin()[pri:0, instance:com.testcases.OrangeHrmCallWrapper@7ec7ffd3]" started-at="2020-04-21T18:17:14 MST" name="Orangelogin" finished-at="2020-04-21T18:17:29 MST" duration-ms="14583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Orangelogin -->
+        <test-method signature="AdminSearch()[pri:1, instance:com.testcases.OrangeHrmCallWrapper@7ec7ffd3]" started-at="2020-04-21T18:17:29 MST" name="AdminSearch" finished-at="2020-04-21T18:17:30 MST" duration-ms="1334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminSearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testcases.OrangeHrmCallWrapper@7ec7ffd3]" started-at="2020-04-21T18:17:30 MST" name="teardown" finished-at="2020-04-21T18:17:37 MST" duration-ms="6771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="Orangelogin()[pri:0, instance:com.testcases.OrangeHrmCallWrapper@7ec7ffd3]" started-at="2020-04-21T18:17:37 MST" name="Orangelogin" finished-at="2020-04-21T18:17:51 MST" duration-ms="14262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Orangelogin -->
+        <test-method signature="AddUser()[pri:2, instance:com.testcases.OrangeHrmCallWrapper@7ec7ffd3]" started-at="2020-04-21T18:17:51 MST" name="AddUser" finished-at="2020-04-21T18:17:54 MST" duration-ms="2600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddUser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testcases.OrangeHrmCallWrapper@7ec7ffd3]" started-at="2020-04-21T18:17:54 MST" name="teardown" finished-at="2020-04-21T18:18:00 MST" duration-ms="6473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testcases.OrangeHrmCallWrapper -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
